@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/源码分析/springmvc/itmayiedu_day_20_springmvc.iml" filepath="$PROJECT_DIR$/源码分析/springmvc/itmayiedu_day_20_springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-aop-transcation/my-aop-transcation.iml" filepath="$PROJECT_DIR$/源码重构/my-aop-transcation/my-aop-transcation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-collection/my-collection.iml" filepath="$PROJECT_DIR$/源码重构/my-collection/my-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-hashmap1.7/my-hashmap1.7.iml" filepath="$PROJECT_DIR$/源码重构/my-hashmap1.7/my-hashmap1.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-ioc-annotation/my-ioc-annotation.iml" filepath="$PROJECT_DIR$/源码重构/my-ioc-annotation/my-ioc-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-ioc-xml/my-ioc-xml.iml" filepath="$PROJECT_DIR$/源码重构/my-ioc-xml/my-ioc-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-thread-jdbc-pool/my-jdbc-pool.iml" filepath="$PROJECT_DIR$/源码重构/my-thread-jdbc-pool/my-jdbc-pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-mybatis/my-mybatis.iml" filepath="$PROJECT_DIR$/源码重构/my-mybatis/my-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码重构/my-springmvc/my-springmvc.iml" filepath="$PROJECT_DIR$/源码重构/my-springmvc/my-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/源码分析/spring-tx/spring-tx.iml" filepath="$PROJECT_DIR$/源码分析/spring-tx/spring-tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/源码学习.iml" filepath="$PROJECT_DIR$/.idea/源码学习.iml" />
+    </modules>
+  </component>
+</project>

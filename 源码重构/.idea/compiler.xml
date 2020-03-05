@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-aop-transcation" />
+        <module name="itmayiedu_day_20_01" />
+        <module name="my-ioc-xml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itmayiedu-day_17_springaop_02" target="1.8" />
+      <module name="itmayiedu-day_17_springaop_02 (1)" target="1.8" />
+      <module name="itmayiedu-day_18_springaop_01" target="1.8" />
+      <module name="itmayiedu_day_17_springAOp" target="1.8" />
+      <module name="itmayiedu_day_19_IocXML配置" target="1.8" />
+      <module name="itmayiedu_day_19_springIoc" target="1.8" />
+      <module name="itmayiedu_day_20_01" target="1.8" />
+      <module name="my-aop-transcation" target="1.8" />
+      <module name="my-ioc-xml" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

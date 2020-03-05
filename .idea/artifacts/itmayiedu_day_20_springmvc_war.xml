@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itmayiedu_day_20_springmvc:war">
+    <output-path>$PROJECT_DIR$/源码分析/springmvc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>itmayiedu_day_20_springmvc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="itmayiedu_day_20_springmvc-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="itmayiedu_day_20_springmvc:war exploded" />
+    </root>
+  </artifact>
+</component>

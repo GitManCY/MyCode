@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-ioc-annotation" />
+        <module name="my-collection" />
+        <module name="my-ioc-xml" />
+        <module name="my-hashmap1.7" />
+        <module name="my-jdbc-pool" />
+        <module name="spring-tx" />
+        <module name="my-springmvc" />
+        <module name="my-mybatis" />
+        <module name="my-aop-transcation" />
+        <module name="itmayiedu_day_20_springmvc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itmayiedu_day_20_springmvc" target="1.8" />
+      <module name="my-aop-transcation" target="1.8" />
+      <module name="my-collection" target="1.8" />
+      <module name="my-hashmap1.7" target="1.8" />
+      <module name="my-ioc-annotation" target="1.8" />
+      <module name="my-ioc-xml" target="1.8" />
+      <module name="my-jdbc-pool" target="1.8" />
+      <module name="my-mybatis" target="1.8" />
+      <module name="my-springmvc" target="1.8" />
+      <module name="spring-tx" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

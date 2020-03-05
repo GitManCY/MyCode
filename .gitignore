@@ -1,0 +1,7 @@
+# Project exclude paths
+/源码重构/my-aop-transcation/target/
+/源码重构/my-ioc-annotation/target/
+/源码重构/my-ioc-xml/target/
+/源码重构/my-mybatis/target/
+/源码重构/my-springmvc/target/
+/源码重构/my-thread-jdbc-pool/target/
